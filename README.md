@@ -1,3 +1,7 @@
 # portfolio
 
-Web page created with the purpose of made public my progress in web development and show my college-related projects (if required).
+Website created with the purpose of showing my progress in Web Development and publishing my university projects (if necessary).
+
+# portafolio
+
+Página web creada con el propósito mostrar mis avances en Desarrollo Web y publicar mis proyectos universitarios (en caso de ser necesario).
